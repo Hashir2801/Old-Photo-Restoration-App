@@ -1,5 +1,4 @@
-streamlit
-numpy
-opencv-python-headless
-Pillow
-scikit-image
+Flask==3.1.2
+numpy==2.2.6
+opencv-python-headless==4.12.0.88
+scikit-image==0.25.2
